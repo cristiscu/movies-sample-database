@@ -1,0 +1,425 @@
+"_id","_labels","born","name","released","tagline","title","_start","_end","_type","rating","roles","summary"
+"0",":Movie","","","1999","Welcome to the Real World","The Matrix",,,,,,
+"1",":Person","1964","Keanu Reeves","","","",,,,,,
+"2",":Person","1967","Carrie-Anne Moss","","","",,,,,,
+"3",":Person","1961","Laurence Fishburne","","","",,,,,,
+"4",":Person","1960","Hugo Weaving","","","",,,,,,
+"5",":Person","1967","Lilly Wachowski","","","",,,,,,
+"6",":Person","1965","Lana Wachowski","","","",,,,,,
+"7",":Person","1952","Joel Silver","","","",,,,,,
+"8",":Person","1978","Emil Eifrem","","","",,,,,,
+"9",":Movie","","","2003","Free your mind","The Matrix Reloaded",,,,,,
+"10",":Movie","","","2003","Everything that has a beginning has an end","The Matrix Revolutions",,,,,,
+"11",":Movie","","","1997","Evil has its winning ways","The Devil's Advocate",,,,,,
+"12",":Person","1975","Charlize Theron","","","",,,,,,
+"13",":Person","1940","Al Pacino","","","",,,,,,
+"14",":Person","1944","Taylor Hackford","","","",,,,,,
+"15",":Movie","","","1992","In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.","A Few Good Men",,,,,,
+"16",":Person","1962","Tom Cruise","","","",,,,,,
+"17",":Person","1937","Jack Nicholson","","","",,,,,,
+"18",":Person","1962","Demi Moore","","","",,,,,,
+"19",":Person","1958","Kevin Bacon","","","",,,,,,
+"20",":Person","1966","Kiefer Sutherland","","","",,,,,,
+"21",":Person","1971","Noah Wyle","","","",,,,,,
+"22",":Person","1968","Cuba Gooding Jr.","","","",,,,,,
+"23",":Person","1957","Kevin Pollak","","","",,,,,,
+"24",":Person","1943","J.T. Walsh","","","",,,,,,
+"25",":Person","1967","James Marshall","","","",,,,,,
+"26",":Person","1948","Christopher Guest","","","",,,,,,
+"27",":Person","1947","Rob Reiner","","","",,,,,,
+"28",":Person","1961","Aaron Sorkin","","","",,,,,,
+"29",":Movie","","","1986","I feel the need, the need for speed.","Top Gun",,,,,,
+"30",":Person","1957","Kelly McGillis","","","",,,,,,
+"31",":Person","1959","Val Kilmer","","","",,,,,,
+"32",":Person","1962","Anthony Edwards","","","",,,,,,
+"33",":Person","1933","Tom Skerritt","","","",,,,,,
+"34",":Person","1961","Meg Ryan","","","",,,,,,
+"35",":Person","1944","Tony Scott","","","",,,,,,
+"36",":Person","1941","Jim Cash","","","",,,,,,
+"37",":Movie","","","2000","The rest of his life begins now.","Jerry Maguire",,,,,,
+"38",":Person","1969","Renee Zellweger","","","",,,,,,
+"39",":Person","1962","Kelly Preston","","","",,,,,,
+"40",":Person","1974","Jerry O'Connell","","","",,,,,,
+"41",":Person","1970","Jay Mohr","","","",,,,,,
+"42",":Person","1961","Bonnie Hunt","","","",,,,,,
+"43",":Person","1971","Regina King","","","",,,,,,
+"44",":Person","1996","Jonathan Lipnicki","","","",,,,,,
+"45",":Person","1957","Cameron Crowe","","","",,,,,,
+"46",":Movie","","","1986","For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.","Stand By Me",,,,,,
+"47",":Person","1970","River Phoenix","","","",,,,,,
+"48",":Person","1971","Corey Feldman","","","",,,,,,
+"49",":Person","1972","Wil Wheaton","","","",,,,,,
+"50",":Person","1966","John Cusack","","","",,,,,,
+"51",":Person","1942","Marshall Bell","","","",,,,,,
+"52",":Movie","","","1997","A comedy from the heart that goes for the throat.","As Good as It Gets",,,,,,
+"53",":Person","1963","Helen Hunt","","","",,,,,,
+"54",":Person","1963","Greg Kinnear","","","",,,,,,
+"55",":Person","1940","James L. Brooks","","","",,,,,,
+"56",":Movie","","","1998","After life there is more. The end is just the beginning.","What Dreams May Come",,,,,,
+"57",":Person","1960","Annabella Sciorra","","","",,,,,,
+"58",":Person","1929","Max von Sydow","","","",,,,,,
+"59",":Person","1942","Werner Herzog","","","",,,,,,
+"60",":Person","1951","Robin Williams","","","",,,,,,
+"61",":Person","1956","Vincent Ward","","","",,,,,,
+"62",":Movie","","","1999","First loves last. Forever.","Snow Falling on Cedars",,,,,,
+"63",":Person","1970","Ethan Hawke","","","",,,,,,
+"64",":Person","1971","Rick Yune","","","",,,,,,
+"65",":Person","1940","James Cromwell","","","",,,,,,
+"66",":Person","1953","Scott Hicks","","","",,,,,,
+"67",":Movie","","","1998","At odds in life... in love on-line.","You've Got Mail",,,,,,
+"68",":Person","1968","Parker Posey","","","",,,,,,
+"69",":Person","1973","Dave Chappelle","","","",,,,,,
+"70",":Person","1967","Steve Zahn","","","",,,,,,
+"71",":Person","1956","Tom Hanks","","","",,,,,,
+"72",":Person","1941","Nora Ephron","","","",,,,,,
+"73",":Movie","","","1993","What if someone you never met, someone you never saw, someone you never knew was the only someone for you?","Sleepless in Seattle",,,,,,
+"74",":Person","1956","Rita Wilson","","","",,,,,,
+"75",":Person","1953","Bill Pullman","","","",,,,,,
+"76",":Person","1949","Victor Garber","","","",,,,,,
+"77",":Person","1962","Rosie O'Donnell","","","",,,,,,
+"78",":Movie","","","1990","A story of love, lava and burning desire.","Joe Versus the Volcano",,,,,,
+"79",":Person","1950","John Patrick Stanley","","","",,,,,,
+"80",":Person","1956","Nathan Lane","","","",,,,,,
+"81",":Movie","","","1998","Can two friends sleep together and still love each other in the morning?","When Harry Met Sally",,,,,,
+"82",":Person","1948","Billy Crystal","","","",,,,,,
+"83",":Person","1956","Carrie Fisher","","","",,,,,,
+"84",":Person","1949","Bruno Kirby","","","",,,,,,
+"85",":Movie","","","1996","In every life there comes a time when that thing you dream becomes that thing you do","That Thing You Do",,,,,,
+"86",":Person","1977","Liv Tyler","","","",,,,,,
+"87",":Movie","","","2000","Pain heals, Chicks dig scars... Glory lasts forever","The Replacements",,,,,,
+"88",":Person","1970","Brooke Langton","","","",,,,,,
+"89",":Person","1930","Gene Hackman","","","",,,,,,
+"90",":Person","1968","Orlando Jones","","","",,,,,,
+"91",":Person","1950","Howard Deutch","","","",,,,,,
+"92",":Movie","","","2006","Based on the extraordinary true story of one man's fight for freedom","RescueDawn",,,,,,
+"93",":Person","1974","Christian Bale","","","",,,,,,
+"94",":Person","1954","Zach Grenier","","","",,,,,,
+"95",":Movie","","","1996","Come as you are","The Birdcage",,,,,,
+"96",":Person","1931","Mike Nichols","","","",,,,,,
+"97",":Movie","","","1992","It's a hell of a thing, killing a man","Unforgiven",,,,,,
+"98",":Person","1930","Richard Harris","","","",,,,,,
+"99",":Person","1930","Clint Eastwood","","","",,,,,,
+"100",":Movie","","","1995","The hottest data on earth. In the coolest head in town","Johnny Mnemonic",,,,,,
+"101",":Person","1947","Takeshi Kitano","","","",,,,,,
+"102",":Person","1968","Dina Meyer","","","",,,,,,
+"103",":Person","1958","Ice-T","","","",,,,,,
+"104",":Person","1953","Robert Longo","","","",,,,,,
+"105",":Movie","","","2012","Everything is connected","Cloud Atlas",,,,,,
+"106",":Person","1966","Halle Berry","","","",,,,,,
+"107",":Person","1949","Jim Broadbent","","","",,,,,,
+"108",":Person","1965","Tom Tykwer","","","",,,,,,
+"109",":Person","1969","David Mitchell","","","",,,,,,
+"110",":Person","1961","Stefan Arndt","","","",,,,,,
+"111",":Movie","","","2006","Break The Codes","The Da Vinci Code",,,,,,
+"112",":Person","1939","Ian McKellen","","","",,,,,,
+"113",":Person","1976","Audrey Tautou","","","",,,,,,
+"114",":Person","1971","Paul Bettany","","","",,,,,,
+"115",":Person","1954","Ron Howard","","","",,,,,,
+"116",":Movie","","","2006","Freedom! Forever!","V for Vendetta",,,,,,
+"117",":Person","1981","Natalie Portman","","","",,,,,,
+"118",":Person","1946","Stephen Rea","","","",,,,,,
+"119",":Person","1940","John Hurt","","","",,,,,,
+"120",":Person","1967","Ben Miles","","","",,,,,,
+"121",":Movie","","","2008","Speed has no limits","Speed Racer",,,,,,
+"122",":Person","1985","Emile Hirsch","","","",,,,,,
+"123",":Person","1960","John Goodman","","","",,,,,,
+"124",":Person","1946","Susan Sarandon","","","",,,,,,
+"125",":Person","1966","Matthew Fox","","","",,,,,,
+"126",":Person","1980","Christina Ricci","","","",,,,,,
+"127",":Person","1982","Rain","","","",,,,,,
+"128",":Movie","","","2009","Prepare to enter a secret world of assassins","Ninja Assassin",,,,,,
+"129",":Person","","Naomie Harris","","","",,,,,,
+"130",":Movie","","","1999","Walk a mile you'll never forget.","The Green Mile",,,,,,
+"131",":Person","1957","Michael Clarke Duncan","","","",,,,,,
+"132",":Person","1953","David Morse","","","",,,,,,
+"133",":Person","1968","Sam Rockwell","","","",,,,,,
+"134",":Person","1955","Gary Sinise","","","",,,,,,
+"135",":Person","1959","Patricia Clarkson","","","",,,,,,
+"136",":Person","1959","Frank Darabont","","","",,,,,,
+"137",":Movie","","","2008","400 million people were waiting for the truth.","Frost/Nixon",,,,,,
+"138",":Person","1938","Frank Langella","","","",,,,,,
+"139",":Person","1969","Michael Sheen","","","",,,,,,
+"140",":Person","1960","Oliver Platt","","","",,,,,,
+"141",":Movie","","","1992","He didn't want law. He wanted justice.","Hoffa",,,,,,
+"142",":Person","1944","Danny DeVito","","","",,,,,,
+"143",":Person","1965","John C. Reilly","","","",,,,,,
+"144",":Movie","","","1995","Houston, we have a problem.","Apollo 13",,,,,,
+"145",":Person","1950","Ed Harris","","","",,,,,,
+"146",":Person","1955","Bill Paxton","","","",,,,,,
+"147",":Movie","","","1996","Don't Breathe. Don't Look Back.","Twister",,,,,,
+"148",":Person","1967","Philip Seymour Hoffman","","","",,,,,,
+"149",":Person","1943","Jan de Bont","","","",,,,,,
+"150",":Movie","","","2000","At the edge of the world, his journey begins.","Cast Away",,,,,,
+"151",":Person","1951","Robert Zemeckis","","","",,,,,,
+"152",":Movie","","","1975","If he's crazy, what does that make you?","One Flew Over the Cuckoo's Nest",,,,,,
+"153",":Person","1932","Milos Forman","","","",,,,,,
+"154",":Movie","","","2003","","Something's Gotta Give",,,,,,
+"155",":Person","1946","Diane Keaton","","","",,,,,,
+"156",":Person","1949","Nancy Meyers","","","",,,,,,
+"157",":Movie","","","1999","One robot's 200 year journey to become an ordinary man.","Bicentennial Man",,,,,,
+"158",":Person","1958","Chris Columbus","","","",,,,,,
+"159",":Movie","","","2007","A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.","Charlie Wilson's War",,,,,,
+"160",":Person","1967","Julia Roberts","","","",,,,,,
+"161",":Movie","","","2004","This Holiday Season… Believe","The Polar Express",,,,,,
+"162",":Movie","","","1992","Once in a lifetime you get a chance to do something different.","A League of Their Own",,,,,,
+"163",":Person","1954","Madonna","","","",,,,,,
+"164",":Person","1956","Geena Davis","","","",,,,,,
+"165",":Person","1963","Lori Petty","","","",,,,,,
+"166",":Person","1943","Penny Marshall","","","",,,,,,
+"167",":Person","","Paul Blythe","","","",,,,,,
+"168",":Person","","Angela Scope","","","",,,,,,
+"169",":Person","","Jessica Thompson","","","",,,,,,
+"170",":Person","","James Thompson","","","",,,,,,
+,,,,,,,"1","0","ACTED_IN","","[""Neo""]",""
+,,,,,,,"2","0","ACTED_IN","","[""Trinity""]",""
+,,,,,,,"3","0","ACTED_IN","","[""Morpheus""]",""
+,,,,,,,"4","0","ACTED_IN","","[""Agent Smith""]",""
+,,,,,,,"5","0","DIRECTED","","",""
+,,,,,,,"6","0","DIRECTED","","",""
+,,,,,,,"7","0","PRODUCED","","",""
+,,,,,,,"8","0","ACTED_IN","","[""Emil""]",""
+,,,,,,,"1","9","ACTED_IN","","[""Neo""]",""
+,,,,,,,"2","9","ACTED_IN","","[""Trinity""]",""
+,,,,,,,"3","9","ACTED_IN","","[""Morpheus""]",""
+,,,,,,,"4","9","ACTED_IN","","[""Agent Smith""]",""
+,,,,,,,"5","9","DIRECTED","","",""
+,,,,,,,"6","9","DIRECTED","","",""
+,,,,,,,"7","9","PRODUCED","","",""
+,,,,,,,"1","10","ACTED_IN","","[""Neo""]",""
+,,,,,,,"2","10","ACTED_IN","","[""Trinity""]",""
+,,,,,,,"3","10","ACTED_IN","","[""Morpheus""]",""
+,,,,,,,"4","10","ACTED_IN","","[""Agent Smith""]",""
+,,,,,,,"5","10","DIRECTED","","",""
+,,,,,,,"6","10","DIRECTED","","",""
+,,,,,,,"7","10","PRODUCED","","",""
+,,,,,,,"1","11","ACTED_IN","","[""Kevin Lomax""]",""
+,,,,,,,"12","11","ACTED_IN","","[""Mary Ann Lomax""]",""
+,,,,,,,"13","11","ACTED_IN","","[""John Milton""]",""
+,,,,,,,"14","11","DIRECTED","","",""
+,,,,,,,"16","15","ACTED_IN","","[""Lt. Daniel Kaffee""]",""
+,,,,,,,"17","15","ACTED_IN","","[""Col. Nathan R. Jessup""]",""
+,,,,,,,"18","15","ACTED_IN","","[""Lt. Cdr. JoAnne Galloway""]",""
+,,,,,,,"19","15","ACTED_IN","","[""Capt. Jack Ross""]",""
+,,,,,,,"20","15","ACTED_IN","","[""Lt. Jonathan Kendrick""]",""
+,,,,,,,"21","15","ACTED_IN","","[""Cpl. Jeffrey Barnes""]",""
+,,,,,,,"22","15","ACTED_IN","","[""Cpl. Carl Hammaker""]",""
+,,,,,,,"23","15","ACTED_IN","","[""Lt. Sam Weinberg""]",""
+,,,,,,,"24","15","ACTED_IN","","[""Lt. Col. Matthew Andrew Markinson""]",""
+,,,,,,,"25","15","ACTED_IN","","[""Pfc. Louden Downey""]",""
+,,,,,,,"26","15","ACTED_IN","","[""Dr. Stone""]",""
+,,,,,,,"28","15","ACTED_IN","","[""Man in Bar""]",""
+,,,,,,,"27","15","DIRECTED","","",""
+,,,,,,,"28","15","WROTE","","",""
+,,,,,,,"16","29","ACTED_IN","","[""Maverick""]",""
+,,,,,,,"30","29","ACTED_IN","","[""Charlie""]",""
+,,,,,,,"31","29","ACTED_IN","","[""Iceman""]",""
+,,,,,,,"32","29","ACTED_IN","","[""Goose""]",""
+,,,,,,,"33","29","ACTED_IN","","[""Viper""]",""
+,,,,,,,"34","29","ACTED_IN","","[""Carole""]",""
+,,,,,,,"35","29","DIRECTED","","",""
+,,,,,,,"36","29","WROTE","","",""
+,,,,,,,"16","37","ACTED_IN","","[""Jerry Maguire""]",""
+,,,,,,,"22","37","ACTED_IN","","[""Rod Tidwell""]",""
+,,,,,,,"38","37","ACTED_IN","","[""Dorothy Boyd""]",""
+,,,,,,,"39","37","ACTED_IN","","[""Avery Bishop""]",""
+,,,,,,,"40","37","ACTED_IN","","[""Frank Cushman""]",""
+,,,,,,,"41","37","ACTED_IN","","[""Bob Sugar""]",""
+,,,,,,,"42","37","ACTED_IN","","[""Laurel Boyd""]",""
+,,,,,,,"43","37","ACTED_IN","","[""Marcee Tidwell""]",""
+,,,,,,,"44","37","ACTED_IN","","[""Ray Boyd""]",""
+,,,,,,,"45","37","DIRECTED","","",""
+,,,,,,,"45","37","PRODUCED","","",""
+,,,,,,,"45","37","WROTE","","",""
+,,,,,,,"49","46","ACTED_IN","","[""Gordie Lachance""]",""
+,,,,,,,"47","46","ACTED_IN","","[""Chris Chambers""]",""
+,,,,,,,"40","46","ACTED_IN","","[""Vern Tessio""]",""
+,,,,,,,"48","46","ACTED_IN","","[""Teddy Duchamp""]",""
+,,,,,,,"50","46","ACTED_IN","","[""Denny Lachance""]",""
+,,,,,,,"20","46","ACTED_IN","","[""Ace Merrill""]",""
+,,,,,,,"51","46","ACTED_IN","","[""Mr. Lachance""]",""
+,,,,,,,"27","46","DIRECTED","","",""
+,,,,,,,"17","52","ACTED_IN","","[""Melvin Udall""]",""
+,,,,,,,"53","52","ACTED_IN","","[""Carol Connelly""]",""
+,,,,,,,"54","52","ACTED_IN","","[""Simon Bishop""]",""
+,,,,,,,"22","52","ACTED_IN","","[""Frank Sachs""]",""
+,,,,,,,"55","52","DIRECTED","","",""
+,,,,,,,"60","56","ACTED_IN","","[""Chris Nielsen""]",""
+,,,,,,,"22","56","ACTED_IN","","[""Albert Lewis""]",""
+,,,,,,,"57","56","ACTED_IN","","[""Annie Collins-Nielsen""]",""
+,,,,,,,"58","56","ACTED_IN","","[""The Tracker""]",""
+,,,,,,,"59","56","ACTED_IN","","[""The Face""]",""
+,,,,,,,"61","56","DIRECTED","","",""
+,,,,,,,"63","62","ACTED_IN","","[""Ishmael Chambers""]",""
+,,,,,,,"64","62","ACTED_IN","","[""Kazuo Miyamoto""]",""
+,,,,,,,"58","62","ACTED_IN","","[""Nels Gudmundsson""]",""
+,,,,,,,"65","62","ACTED_IN","","[""Judge Fielding""]",""
+,,,,,,,"66","62","DIRECTED","","",""
+,,,,,,,"71","67","ACTED_IN","","[""Joe Fox""]",""
+,,,,,,,"34","67","ACTED_IN","","[""Kathleen Kelly""]",""
+,,,,,,,"54","67","ACTED_IN","","[""Frank Navasky""]",""
+,,,,,,,"68","67","ACTED_IN","","[""Patricia Eden""]",""
+,,,,,,,"69","67","ACTED_IN","","[""Kevin Jackson""]",""
+,,,,,,,"70","67","ACTED_IN","","[""George Pappas""]",""
+,,,,,,,"72","67","DIRECTED","","",""
+,,,,,,,"71","73","ACTED_IN","","[""Sam Baldwin""]",""
+,,,,,,,"34","73","ACTED_IN","","[""Annie Reed""]",""
+,,,,,,,"74","73","ACTED_IN","","[""Suzy""]",""
+,,,,,,,"75","73","ACTED_IN","","[""Walter""]",""
+,,,,,,,"76","73","ACTED_IN","","[""Greg""]",""
+,,,,,,,"77","73","ACTED_IN","","[""Becky""]",""
+,,,,,,,"72","73","DIRECTED","","",""
+,,,,,,,"71","78","ACTED_IN","","[""Joe Banks""]",""
+,,,,,,,"34","78","ACTED_IN","","[""DeDe"",""Angelica Graynamore"",""Patricia Graynamore""]",""
+,,,,,,,"80","78","ACTED_IN","","[""Baw""]",""
+,,,,,,,"79","78","DIRECTED","","",""
+,,,,,,,"82","81","ACTED_IN","","[""Harry Burns""]",""
+,,,,,,,"34","81","ACTED_IN","","[""Sally Albright""]",""
+,,,,,,,"83","81","ACTED_IN","","[""Marie""]",""
+,,,,,,,"84","81","ACTED_IN","","[""Jess""]",""
+,,,,,,,"27","81","DIRECTED","","",""
+,,,,,,,"27","81","PRODUCED","","",""
+,,,,,,,"72","81","PRODUCED","","",""
+,,,,,,,"72","81","WROTE","","",""
+,,,,,,,"71","85","ACTED_IN","","[""Mr. White""]",""
+,,,,,,,"86","85","ACTED_IN","","[""Faye Dolan""]",""
+,,,,,,,"12","85","ACTED_IN","","[""Tina""]",""
+,,,,,,,"71","85","DIRECTED","","",""
+,,,,,,,"1","87","ACTED_IN","","[""Shane Falco""]",""
+,,,,,,,"88","87","ACTED_IN","","[""Annabelle Farrell""]",""
+,,,,,,,"89","87","ACTED_IN","","[""Jimmy McGinty""]",""
+,,,,,,,"90","87","ACTED_IN","","[""Clifford Franklin""]",""
+,,,,,,,"91","87","DIRECTED","","",""
+,,,,,,,"51","92","ACTED_IN","","[""Admiral""]",""
+,,,,,,,"93","92","ACTED_IN","","[""Dieter Dengler""]",""
+,,,,,,,"94","92","ACTED_IN","","[""Squad Leader""]",""
+,,,,,,,"70","92","ACTED_IN","","[""Duane""]",""
+,,,,,,,"59","92","DIRECTED","","",""
+,,,,,,,"60","95","ACTED_IN","","[""Armand Goldman""]",""
+,,,,,,,"80","95","ACTED_IN","","[""Albert Goldman""]",""
+,,,,,,,"89","95","ACTED_IN","","[""Sen. Kevin Keeley""]",""
+,,,,,,,"96","95","DIRECTED","","",""
+,,,,,,,"98","97","ACTED_IN","","[""English Bob""]",""
+,,,,,,,"99","97","ACTED_IN","","[""Bill Munny""]",""
+,,,,,,,"89","97","ACTED_IN","","[""Little Bill Daggett""]",""
+,,,,,,,"99","97","DIRECTED","","",""
+,,,,,,,"1","100","ACTED_IN","","[""Johnny Mnemonic""]",""
+,,,,,,,"101","100","ACTED_IN","","[""Takahashi""]",""
+,,,,,,,"102","100","ACTED_IN","","[""Jane""]",""
+,,,,,,,"103","100","ACTED_IN","","[""J-Bone""]",""
+,,,,,,,"104","100","DIRECTED","","",""
+,,,,,,,"71","105","ACTED_IN","","[""Zachry"",""Dr. Henry Goose"",""Isaac Sachs"",""Dermot Hoggins""]",""
+,,,,,,,"4","105","ACTED_IN","","[""Bill Smoke"",""Haskell Moore"",""Tadeusz Kesselring"",""Nurse Noakes"",""Boardman Mephi"",""Old Georgie""]",""
+,,,,,,,"106","105","ACTED_IN","","[""Luisa Rey"",""Jocasta Ayrs"",""Ovid"",""Meronym""]",""
+,,,,,,,"107","105","ACTED_IN","","[""Vyvyan Ayrs"",""Captain Molyneux"",""Timothy Cavendish""]",""
+,,,,,,,"108","105","DIRECTED","","",""
+,,,,,,,"5","105","DIRECTED","","",""
+,,,,,,,"6","105","DIRECTED","","",""
+,,,,,,,"109","105","WROTE","","",""
+,,,,,,,"110","105","PRODUCED","","",""
+,,,,,,,"71","111","ACTED_IN","","[""Dr. Robert Langdon""]",""
+,,,,,,,"112","111","ACTED_IN","","[""Sir Leight Teabing""]",""
+,,,,,,,"113","111","ACTED_IN","","[""Sophie Neveu""]",""
+,,,,,,,"114","111","ACTED_IN","","[""Silas""]",""
+,,,,,,,"115","111","DIRECTED","","",""
+,,,,,,,"4","116","ACTED_IN","","[""V""]",""
+,,,,,,,"117","116","ACTED_IN","","[""Evey Hammond""]",""
+,,,,,,,"118","116","ACTED_IN","","[""Eric Finch""]",""
+,,,,,,,"119","116","ACTED_IN","","[""High Chancellor Adam Sutler""]",""
+,,,,,,,"120","116","ACTED_IN","","[""Dascomb""]",""
+,,,,,,,"25","116","DIRECTED","","",""
+,,,,,,,"5","116","PRODUCED","","",""
+,,,,,,,"6","116","PRODUCED","","",""
+,,,,,,,"7","116","PRODUCED","","",""
+,,,,,,,"5","116","WROTE","","",""
+,,,,,,,"6","116","WROTE","","",""
+,,,,,,,"122","121","ACTED_IN","","[""Speed Racer""]",""
+,,,,,,,"123","121","ACTED_IN","","[""Pops""]",""
+,,,,,,,"124","121","ACTED_IN","","[""Mom""]",""
+,,,,,,,"125","121","ACTED_IN","","[""Racer X""]",""
+,,,,,,,"126","121","ACTED_IN","","[""Trixie""]",""
+,,,,,,,"127","121","ACTED_IN","","[""Taejo Togokahn""]",""
+,,,,,,,"120","121","ACTED_IN","","[""Cass Jones""]",""
+,,,,,,,"5","121","DIRECTED","","",""
+,,,,,,,"6","121","DIRECTED","","",""
+,,,,,,,"5","121","WROTE","","",""
+,,,,,,,"6","121","WROTE","","",""
+,,,,,,,"7","121","PRODUCED","","",""
+,,,,,,,"127","128","ACTED_IN","","[""Raizo""]",""
+,,,,,,,"129","128","ACTED_IN","","[""Mika Coretti""]",""
+,,,,,,,"64","128","ACTED_IN","","[""Takeshi""]",""
+,,,,,,,"120","128","ACTED_IN","","[""Ryan Maslow""]",""
+,,,,,,,"25","128","DIRECTED","","",""
+,,,,,,,"5","128","PRODUCED","","",""
+,,,,,,,"6","128","PRODUCED","","",""
+,,,,,,,"7","128","PRODUCED","","",""
+,,,,,,,"71","130","ACTED_IN","","[""Paul Edgecomb""]",""
+,,,,,,,"131","130","ACTED_IN","","[""John Coffey""]",""
+,,,,,,,"132","130","ACTED_IN","","[""Brutus \""Brutal\"" Howell""]",""
+,,,,,,,"42","130","ACTED_IN","","[""Jan Edgecomb""]",""
+,,,,,,,"65","130","ACTED_IN","","[""Warden Hal Moores""]",""
+,,,,,,,"133","130","ACTED_IN","","[""\""Wild Bill\"" Wharton""]",""
+,,,,,,,"134","130","ACTED_IN","","[""Burt Hammersmith""]",""
+,,,,,,,"135","130","ACTED_IN","","[""Melinda Moores""]",""
+,,,,,,,"136","130","DIRECTED","","",""
+,,,,,,,"138","137","ACTED_IN","","[""Richard Nixon""]",""
+,,,,,,,"139","137","ACTED_IN","","[""David Frost""]",""
+,,,,,,,"19","137","ACTED_IN","","[""Jack Brennan""]",""
+,,,,,,,"140","137","ACTED_IN","","[""Bob Zelnick""]",""
+,,,,,,,"133","137","ACTED_IN","","[""James Reston, Jr.""]",""
+,,,,,,,"115","137","DIRECTED","","",""
+,,,,,,,"17","141","ACTED_IN","","[""Hoffa""]",""
+,,,,,,,"142","141","ACTED_IN","","[""Robert \""Bobby\"" Ciaro""]",""
+,,,,,,,"24","141","ACTED_IN","","[""Frank Fitzsimmons""]",""
+,,,,,,,"143","141","ACTED_IN","","[""Peter \""Pete\"" Connelly""]",""
+,,,,,,,"142","141","DIRECTED","","",""
+,,,,,,,"71","144","ACTED_IN","","[""Jim Lovell""]",""
+,,,,,,,"19","144","ACTED_IN","","[""Jack Swigert""]",""
+,,,,,,,"145","144","ACTED_IN","","[""Gene Kranz""]",""
+,,,,,,,"146","144","ACTED_IN","","[""Fred Haise""]",""
+,,,,,,,"134","144","ACTED_IN","","[""Ken Mattingly""]",""
+,,,,,,,"115","144","DIRECTED","","",""
+,,,,,,,"146","147","ACTED_IN","","[""Bill Harding""]",""
+,,,,,,,"53","147","ACTED_IN","","[""Dr. Jo Harding""]",""
+,,,,,,,"94","147","ACTED_IN","","[""Eddie""]",""
+,,,,,,,"148","147","ACTED_IN","","[""Dustin \""Dusty\"" Davis""]",""
+,,,,,,,"149","147","DIRECTED","","",""
+,,,,,,,"71","150","ACTED_IN","","[""Chuck Noland""]",""
+,,,,,,,"53","150","ACTED_IN","","[""Kelly Frears""]",""
+,,,,,,,"151","150","DIRECTED","","",""
+,,,,,,,"17","152","ACTED_IN","","[""Randle McMurphy""]",""
+,,,,,,,"142","152","ACTED_IN","","[""Martini""]",""
+,,,,,,,"153","152","DIRECTED","","",""
+,,,,,,,"17","154","ACTED_IN","","[""Harry Sanborn""]",""
+,,,,,,,"155","154","ACTED_IN","","[""Erica Barry""]",""
+,,,,,,,"1","154","ACTED_IN","","[""Julian Mercer""]",""
+,,,,,,,"156","154","DIRECTED","","",""
+,,,,,,,"156","154","PRODUCED","","",""
+,,,,,,,"156","154","WROTE","","",""
+,,,,,,,"60","157","ACTED_IN","","[""Andrew Marin""]",""
+,,,,,,,"140","157","ACTED_IN","","[""Rupert Burns""]",""
+,,,,,,,"158","157","DIRECTED","","",""
+,,,,,,,"71","159","ACTED_IN","","[""Rep. Charlie Wilson""]",""
+,,,,,,,"160","159","ACTED_IN","","[""Joanne Herring""]",""
+,,,,,,,"148","159","ACTED_IN","","[""Gust Avrakotos""]",""
+,,,,,,,"96","159","DIRECTED","","",""
+,,,,,,,"71","161","ACTED_IN","","[""Hero Boy"",""Father"",""Conductor"",""Hobo"",""Scrooge"",""Santa Claus""]",""
+,,,,,,,"151","161","DIRECTED","","",""
+,,,,,,,"71","162","ACTED_IN","","[""Jimmy Dugan""]",""
+,,,,,,,"164","162","ACTED_IN","","[""Dottie Hinson""]",""
+,,,,,,,"165","162","ACTED_IN","","[""Kit Keller""]",""
+,,,,,,,"77","162","ACTED_IN","","[""Doris Murphy""]",""
+,,,,,,,"163","162","ACTED_IN","","[""\""All the Way\"" Mae Mordabito""]",""
+,,,,,,,"146","162","ACTED_IN","","[""Bob Hinson""]",""
+,,,,,,,"166","162","DIRECTED","","",""
+,,,,,,,"170","169","FOLLOWS","","",""
+,,,,,,,"168","169","FOLLOWS","","",""
+,,,,,,,"167","168","FOLLOWS","","",""
+,,,,,,,"169","105","REVIEWED","95","","An amazing journey"
+,,,,,,,"169","87","REVIEWED","65","","Silly, but fun"
+,,,,,,,"170","87","REVIEWED","100","","The coolest football movie ever"
+,,,,,,,"168","87","REVIEWED","62","","Pretty funny at times"
+,,,,,,,"169","97","REVIEWED","85","","Dark, but compelling"
+,,,,,,,"169","95","REVIEWED","45","","Slapstick redeemed only by the Robin Williams and Gene Hackman's stellar performances"
+,,,,,,,"169","111","REVIEWED","68","","A solid romp"
+,,,,,,,"170","111","REVIEWED","65","","Fun, but a little far fetched"
+,,,,,,,"169","37","REVIEWED","92","","You had me at Jerry"
